@@ -23,3 +23,5 @@ I don't recommend using the patched DSDT and SSDT files I have used. Patch your 
 
 ## Credits
 My setup was based upon the guide provided by [AudioGod](https://www.insanelymac.com/forum/topic/339980-audiogods-aorus-z390-pro-patched-dsdt-mini-guide-and-discussion/). It is thorough and I highly recommend trying it out. My thanks also to MaLd0n for helping with the patching of my DSDT and SSDT. Thank you.
+
+![About David's Hackintosh](about_this_mac.png)
